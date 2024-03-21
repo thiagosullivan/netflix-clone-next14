@@ -19,4 +19,7 @@ This is a Nextflix clone project.
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/rFwwXLM/Screenshot-14.png)
+![App Screenshot](https://i.ibb.co/kxw3J2T/Screenshot-15.png)
+![App Screenshot](https://i.ibb.co/XFk4fdC/Screenshot-24.png)
+![App Screenshot](https://i.ibb.co/Bqn4BJw/Screenshot-25.png)
 
